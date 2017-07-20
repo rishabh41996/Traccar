@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\build\\intermediates\\res\\merged\\regular\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\build\\intermediates\\res\\merged\\regular\\debug\\layout\\status.xml",
+        "source": "C:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\src\\main\\res\\layout\\status.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\build\\intermediates\\res\\merged\\regular\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\src\\main\\res\\layout\\login.xml"
+    }
+]

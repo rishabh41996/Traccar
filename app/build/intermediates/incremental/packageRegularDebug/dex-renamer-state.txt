@@ -1,0 +1,7 @@
+#Tue Jul 18 18:51:10 IST 2017
+base.0=C\:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\build\\intermediates\\transforms\\dex\\regular\\debug\\folders\\1000\\10000\\instant-run_12cd6b590f7996dbcaa968e38c0bf3260e34812f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\build\\intermediates\\transforms\\dex\\regular\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5bdee027b3ad49d0f3022360beb71ec9cefc2f62\\classes.dex
+base.1=C\:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\build\\intermediates\\transforms\\dex\\regular\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5bdee027b3ad49d0f3022360beb71ec9cefc2f62
+file.0=C\:\\Users\\risha\\Downloads\\Compressed\\traccar-client-android-master\\app\\build\\intermediates\\transforms\\dex\\regular\\debug\\folders\\1000\\10000\\instant-run_12cd6b590f7996dbcaa968e38c0bf3260e34812f\\classes.dex
